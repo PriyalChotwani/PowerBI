@@ -30,7 +30,9 @@ Following are the questions that will be answered:
 ##### Question 1: Which category has the highest and the lowest average price?
 Figure shows a column chart where x-axis represent the Category and the y-axis represent the Average price. Medical and Shopping are the categories which have highest and lowest average price respectively. Medical might be on top of the chart because of the health care it provides and how much cost goes into developing it in such a way that the value of money if provided to the customers. Whereas Shopping might be on the lowest end as all the revenue is generated via shopping on the apps, rather than installing them. Next figure shows the value of Average price of Games which is obtained by inserting a card. This is a feature in Power BI that summarizes a single feature that needs to be investigated along with conducting comparisons in real-time.
 ![Alt text](Images/PowerBIQ1.png)
-<img align="center" src= "Images/PowerBIQ1_2.png">
+<p align="center">
+ img src= "Images/PowerBIQ1_2.png"
+</p>
 
 ##### Question 2: Create a graph that depicts User Rating by each Category
 The following figure shows a donut chart where different colors represent the genres, and each section represents the user rating of each genre. The graph suggests that Games have the highest user rating and Catalogs have the least. This might be because majorly people download the apps for gaming purposes. Entertainment and Education are the second and third category respectively in terms of user ratings.
