@@ -29,26 +29,34 @@ Following are the questions that will be answered:
 
 ##### Question 1: Which category has the highest and the lowest average price?
 Figure shows a column chart where x-axis represent the Category and the y-axis represent the Average price. Medical and Shopping are the categories which have highest and lowest average price respectively. Medical might be on top of the chart because of the health care it provides and how much cost goes into developing it in such a way that the value of money if provided to the customers. Whereas Shopping might be on the lowest end as all the revenue is generated via shopping on the apps, rather than installing them. Next figure shows the value of Average price of Games which is obtained by inserting a card. This is a feature in Power BI that summarizes a single feature that needs to be investigated along with conducting comparisons in real-time.
-![Alt text](Images/PowerBIQ1.png)
 <p align="center">
+ <img src= "Images/PowerBIQ1.png">
  <img src= "Images/PowerBIQ1_2.png">
 </p>
 
 ##### Question 2: Create a graph that depicts User Rating by each Category
 The following figure shows a donut chart where different colors represent the genres, and each section represents the user rating of each genre. The graph suggests that Games have the highest user rating and Catalogs have the least. This might be because majorly people download the apps for gaming purposes. Entertainment and Education are the second and third category respectively in terms of user ratings.
-![Alt text](Images/PowerBIQ2.png)
+<p align="center">
+ <img src= "Images/PowerBIQ2.png">
+</p>
 
 ##### Question 3: What are the top 10 apps with the highest total number of ratings?
 Following figure shows the top 10 apps with the highest total number of ratings in which the first 2 apps belong to social networking genre, followed by gaming apps. This table is obtained via using the Chart feature of Power BI. It is a Q&A format, where the user can get the results of any question that they have entered. Rating_count_tot is the field that represents total number of rating and track_name is the application name. This is a great way to get to-the-point and clear answers about the data in a manner that is also visually well understandable.
-![Alt text](Images/PowerBIQ3.png)
+<p align="center">
+ <img src= "Images/PowerBIQ3.png">
+</p>
 
 ##### Question 4: What are the top 5 highest priced app in the Education genre?
 Following figure shows a column chart where x-axis represent the application name (track_name) and y-axis represent the average of price and a filter is applied to the category (prime_genre) to only select Education. The highest priced app is Lamp Words for Life with the price being 300 USD.
-![Alt text](Images/PowerBIQ4.png)
+<p align="center">
+ <img src= "Images/PowerBIQ4.png">
+</p>
 
 ##### Question 5: What is the total count of apps with the 17+, 12+, 9+, and 4+ content rating in the category: Games, Entertainment, Education, and Social Networking?
 Following is a stacked chart where x-axis is Genre, y-axis is Count of App, and the color represents Content Rating. According to the graph, Games has highest Count of App while Social Networking has the lowest out of all the 4 categories. Most of the Apps in each category has a 4+ rating. Education category has 4500 apps out of which 4000 apps have a content rating of 4+.
-![Alt text](Images/PowerBIQ5.png)
+<p align="center">
+ <img src= "Images/PowerBIQ5.png">
+</p>
 
 ## Analysis and Critique of the Tool
 
