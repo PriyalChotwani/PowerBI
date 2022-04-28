@@ -15,7 +15,7 @@ Like many other visualization tools available in the market, it is a collection 
 
 ## Dataset and Research questions
 
-Power BI will be used to analyze Apple store dataset which contains id (referring to App id), track_name (referring to Application name), size_bytes (referring to Memory size in Bytes), app_desc (referring to Application description), currency, price, cont_rating (referring to Content Rating), and user rating of 7200 apps. It was last updated in 2018 (Ramanathan, 2018). This is a very small dataset and might not cover all the aspects that are required to gain insights about different genres of the apps. Also, some of the application descriptions are not clear and not well-mentioned. Since, this is a practice lab, the dataset serves its purpose of practising the tool and answering few questions which help us to dig deeper into the information being provided.
+Power BI will be used to analyze Apple store dataset which contains id (referring to App id), track_name (referring to Application name), size_bytes (referring to Memory size in Bytes), app_desc (referring to Application description), currency, price, cont_rating (referring to Content Rating), and user rating of 7200 apps. It was last updated in 2018 (Ramanathan, 2018). This is a very small dataset and might not cover all the aspects that are required to gain insights about different genres of the apps. Also, some of the application descriptions are not clear and not well-mentioned. Since, this is a practice project, the dataset serves its purpose of practising the tool and answering few questions which help us to dig deeper into the information being provided.
 
 Following are the questions that will be answered:
 
